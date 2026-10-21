@@ -73,7 +73,9 @@ The original portfolio code and documentation are released under the Unlicense. 
 ## Contributors
 
 - Nalwanyiri Dorah
+## Collaborator
 
+- Delice MUNEZERO
 ## Project Link
 
 - [GitHub repository](https://github.com/dora0785/dorah)
